@@ -6,6 +6,13 @@
 # Requirements
 本リポジトリは以下環境でテストしました。
 
+| 項目 | 要件 |
+| --- | --- |
+| Python | 3.10.12 |
+| NumPy | 1.26.4 |
+| tqdm | 4.67.1 |
+| Shapely | 2.1.2 |
+
 <br>
 
 # Installation
