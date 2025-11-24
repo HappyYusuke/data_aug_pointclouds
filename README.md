@@ -1,5 +1,5 @@
 # data_aug_pointclouds
-
+<img src=fig/1.png width=1000>
 
 <br>
 
