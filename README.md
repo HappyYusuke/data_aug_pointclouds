@@ -1,8 +1,6 @@
 # data_aug_pointclouds
 <img src=fig/1.png width=1000>
 
-<br>
-
 # Description
 本リポジトリは、アノテーション済みの点群データセットをデータ拡張する機能を提供します。
 
