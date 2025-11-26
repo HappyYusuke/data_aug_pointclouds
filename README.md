@@ -43,8 +43,8 @@ your_data
 
 > [!IMPORTANT]
 > 各ファイルの拡張子は以下である必要があります。
-> * 点群ファイル: `.pcd (ASCⅡ)`
-> * ラベルファイル: `.json`
+> * 点群ファイル: `.pcd (ASCⅡ)` or `.bin`
+> * ラベルファイル: `.json` or `.txt`
 
 <br>
 
