@@ -68,8 +68,7 @@ python3 ~/data_aut_pointclouds/augmentator.py
 <pre>
 dataset_augmented
 ├── lidar 👉 点群ファイル (.bin)
-├── label 👉 カメラ座標のラベルファイル (.txt)
-└── label_lidar 👉 LiDAR座標のラベルファイル (.txt) (基本的にこちらを使用します。)
+└── label 👉 LiDAR座標のラベルファイル (.txt)
 </pre>
 
 > [!TIP]
